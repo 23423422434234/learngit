@@ -11,12 +11,12 @@ git remote add [Name of the origin eg: origin1] [repo url]
 
 ## Remove Remote 
 ```
-remote remove [Name of the origin eg: origin1]
+git remote remove [Name of the origin eg: origin1]
 ```
 
 ## Remove Rename
 ```
-remote rename [Name of the old origin  new origin eg: origin1 origin2]
+git remote rename [Name of the old origin  new origin eg: origin1 origin2]
 ```
 
 ## push to selected remort 
