@@ -34,3 +34,6 @@ git branch [new branch name]
 ```
 git checkout [new branch name]
 ```
+## delete the branch in remort 
+```
+git push origin --delete [branch name]
