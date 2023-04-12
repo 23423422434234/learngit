@@ -23,3 +23,8 @@ git remote rename [Name of the old origin  new origin eg: origin1 origin2]
 ```
 git push -u [Name of the origin eg: origin1] [branch name eg: main]
 ```
+
+# git branch  commands 
+
+## create an new branch
+
