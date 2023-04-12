@@ -27,4 +27,10 @@ git push -u [Name of the origin eg: origin1] [branch name eg: main]
 # git branch  commands 
 
 ## create an new branch
-
+```
+git branch [new branch name]
+```
+## switch to new branch 
+```
+git checkout [new branch name]
+```
